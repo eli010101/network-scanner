@@ -1,2 +1,3 @@
-# python-scripts 
-collections of automation and pentesting python scripts
+# net-scanner(minimal)
+
+uses python-nmap
