@@ -1,4 +1,4 @@
-# net-scanner(minimal)
+# net-scanner(basic)
 a simple network scanner that
 uses python-nmap
 
