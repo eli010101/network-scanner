@@ -4,7 +4,7 @@ uses python-nmap
 
 # installation:
 
-termux:
+apt package(debian based):
 ````
-pkg update;pkg upgrade;pkg install python;pkg install git;git clone https://github.com/sevi0101/network-scanner
+apt update && apt upgrade && apt install python3 && apt install git;git clone https://github.com/sevi0101/network-scanner
 ````
